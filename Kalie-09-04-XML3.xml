@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+    <!--Hi Dr.B, I am forgetting how to signal to XML that I want the blocks of space that I have layed out, so that when I go to pretty print it has the blocks of space and doesn't smoosh together.-->
+    
+    Brownie Batter Cheesecake Bars   
+ 
+<itemsNeeded>
+    
+    <ingreds>1 box Betty Crocker™ Fudge Brownie Mix</ingreds>
+    
+    <ingreds>Water, vegetable oil, eggs</ingreds>
+
+    <ingreds quant="2" unit="packs"> 2 packages (8 oz each)cream cheese,softened</ingreds>
+
+    <ingreds quant=".5" unit="cup"> 1/2 cup sugar</ingreds>
+
+    <ingreds quant="2" unit="tbs"> 2 tablespoons heavy whipping cream</ingreds>
+
+    <ingreds quant="1" unit="tsp"> 1 teaspoon vanilla</ingreds>
+
+    <ingreds quant="2" unit="pieces"> 2 eggs</ingreds>
+
+</itemsNeeded>
+
+        Topping
+
+<itemsNeededTop>
+    
+    <ingreds quant="1.5" unit="cup"> 1 1/2 cups semisweet chocolate chips</ingreds>
+
+    <ingreds quant=".75" unit="cup"> 3/4 cup heavy whipping cream</ingreds>
+    
+    <optionalIngreds quant=".25" unit="tsp">1/4 teaspoon fine sea salt, if desired</optionalIngreds>
+    
+</itemsNeededTop>
+    
+    <actionTime>Putting It All Together</actionTime>
+    
+    <step num="1">Heat oven to 325°F.</step> 
+    <step num="2">Spray bottom of 13x9-inch pan with cooking spray.</step>
+    <step num="3">Make brownie batter as directed on box for cakelike brownies.</step> 
+    <step num="4">Measure out 1/2 cup batter; cover and refrigerate for later use.</step> 
+    <step num="5">Spread remaining batter in bottom of pan.</step> 
+    <step num="6">Bake 22 to 25 minutes or until toothpick inserted 2 inches from side of       pan comes out clean, cool 10 minutes.</step>. 
+    <step num="7">In large bowl, beat cream cheese with electric mixer on medium speed          until smooth. Add sugar; beat until smooth. </step>
+    <step num="8">Add reserved 1/2 cup batter, 2 tablespoons whipping cream and the             vanilla; beat until smooth. Add 2 eggs; beat just until blended. Spread evenly over        cooled crust.</step>
+    <step num="9">Bake 26 to 30 minutes or until center is set. Cool 30 minutes</step>.
+    <step num="10">In medium microwavable bowl, microwave chocolate chips and 3/4 cup          whipping cream uncovered on High 1 minute; stir. Microwave 30 seconds; stir until          smooth. Spread mixture on top of cheesecake layer.</step> 
+    <step num="11">Refrigerate about 4 hours or until cooled completely. Cut into 6 rows        by 4 rows.</step> 
+    <tip>Sprinkle sea salt on top of chocolate layer before serving, if desired.</tip>
+    <tip>To make cutting your cheesecake easier, dip a sharp straight-edge knife in warm            water, and dry it each time you slice. Get creative with your topping! Sprinkle            with chopped candy, or top with shaved chocolate for extra indulgence.</tip>
+
+
+</root>
