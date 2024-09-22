@@ -1,0 +1,15 @@
+start = root
+root = element root {date, paragraph+}
+
+date = element date {when, text}
+when = attribute when {xsd:date | xsd:gYear}
+
+paragraph = element p {n, mixed { (location | adj | object)* }}
+n = attribute n {xsd:integer}
+
+location = element location {text}
+adj = element adj {text}
+object = element object {text}
+
+# mixed content includes both elements and text
+ tex = xsd:string?
