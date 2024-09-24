@@ -1,0 +1,19 @@
+start = letter
+letter = element letter {date, sender, header, body, signature}
+
+date = element date {xsd:date}
+
+sender = element sender {text}
+header = element header {line+}
+line = element line {text}
+
+body = element body {paragraph+}
+paragraph = element p {mixed { (italic | bold | linebreak)* }}
+
+italic = element i {text}
+bold = element b {text}
+linebreak = element br {empty}
+
+signature = element signature {text}
+
+# No need to define 'text', mixed content naturally includes strings.
