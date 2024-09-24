@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../RelaxNG/Kalie_relaxNG3.rnc" type="application/relax-ng-compact-syntax"?>
+
+    <letter>
+        <date> 2012-08-12 </date>
+        
+        <sender>PLAYTONE</sender>
+        
+        <header>
+            <line>Film</line>
+            <line>Television</line>
+            <line>Music</line>
+            <line>Typewriters</line>
+        </header>
+        
+        <body>
+            <p>Dear Chris, Ashley, and all the diabolical geniuses at Nerdist Industries.</p>
+            
+            <p>Just who do you think you are to try to bribe me into an appearance on your 'thing' with this gift of the most fantastic Corona Silent typewriter made 1934?</p>
+            
+            <p>
+                You are out of your minds if you think... <i>that I...</i> <br></br>, this thing has great action... and, this deep crimson color... Wait! 
+                I'm not so shallow as to... and it types nearly silently...
+            </p>
+            
+            <p>Oh, OKAY! I will have my people contact yours and work out some kind of interview process... Damn you all to hell,</p>
+            
+            <p>Tom Hanks</p>
+        </body>
+        
+        <signature>Tom Hanks</signature>
+    </letter>
+    
